@@ -9,7 +9,7 @@
 @section('content')
 <table>
 <tr>
-<th><div id="container" style="height: 400px; width: 400px"></th><br>
+<th><div id="container" style="height: 400px; width: 400px; padding-right: 50px;"></th>
 <th><div id="container2" style="height: 400px; width: 400px"></th><br>
 </tr>
 <tr>
